@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Purpose
 Create a Postgres database with a star schema that is optimized for queries on song play analysis.
 
@@ -43,3 +44,7 @@ Run [`create_tables.py`](create_tables.py) to create the database/tables. Then r
 
 ## NOTE:
 You will not be able to run [`test.ipynb`](test.ipynb), [`etl.ipynb`](etl.ipynb), or [`etl.py`](etl.py) until you have run [`create_tables.py`](create_tables.py) at least once to create the sparkifydb database, which these other files connect to.
+=======
+# data-modeling-postgres
+Data modeling in Postgres w/ Python (Project for the Udacity Data Engineering Nanodegree)
+>>>>>>> 0f95e7df96d72779bc6dd9e868549d8d769c4ee4
